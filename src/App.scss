@@ -1,0 +1,22 @@
+.main-body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .colors-btn {
+    .counter {
+      text-align: center;
+
+      h1 {
+        font-size: 100px;
+        color: #fff;
+      }
+    }
+
+    button {
+      padding: 10px;
+    }
+  }
+}
